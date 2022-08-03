@@ -1,6 +1,7 @@
 
 # Calendar App
 
+Aquí les dejo un calendario personalizasdo con notas y registro de usuarios.
 
 ## Development pasos
 
